@@ -1,5 +1,5 @@
 # AlumniManagementWebsite
-Alumni Management Website in PHP/MySQL full source code with documentation.
+Alumni Management Website in PHP/MySQL full source code.
 To Run the website follow the Below Steps:
 First Download and install xampp.
 start xampp apache and mysql server.
